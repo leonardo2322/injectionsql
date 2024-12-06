@@ -40,4 +40,4 @@ ssh dylan@172.17.0.2 -l
 
 ## root
 
-![captura-root](https://github.com/leonardo2322/injectionsql/tree/main/assets/img/root.png)
+![captura-root](assets/img/root.png)
