@@ -30,7 +30,7 @@ nmap 172.17.0.2
 <p>procedimos a realizar la conexion en ssh teniendo el acceso a la maquina</p>
 
 ```
-ssh dylan@172.17.0.2 -l
+ssh dylan@172.17.0.2
 
 ```
 
